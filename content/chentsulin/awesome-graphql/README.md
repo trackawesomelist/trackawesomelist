@@ -6,6 +6,12 @@ Awesome list of GraphQL
 
 [ Daily / [Weekly](/content/chentsulin/awesome-graphql/week/README.md) / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Nov 27, 2026](/content/2026/11/27/README.md)
+
+### API Management, Delivery & Observability / React
+
+*   [GraphPilot](https://graphpilot.io/) - Managed GraphQL edge cache on Fastly's network that derives caching and invalidation from the schema and purges cached responses when a mutation returns a changed object.
+
 ## [Nov 22, 2026](/content/2026/11/22/README.md)
 
 ### Clients
@@ -16,7 +22,7 @@ Awesome list of GraphQL
 
 ### Tools - API Clients & Workbenches / React
 
-*   [Gostman (⭐67)](https://github.com/kunalgoesbyken/gostman) - Open source desktop and web API client with a schema browser, query validation, file uploads and subscriptions over WebSocket or server-sent events, plus REST, gRPC and more.
+*   [Gostman (⭐93)](https://github.com/kunalgoesbyken/gostman) - Open source desktop and web API client with a schema browser, query validation, file uploads and subscriptions over WebSocket or server-sent events, plus REST, gRPC and more.
 
 ## [Oct 31, 2026](/content/2026/10/31/README.md)
 
@@ -64,7 +70,7 @@ Awesome list of GraphQL
 
 ### JavaScript Examples / React
 
-*   [Next.js TypeScript and GraphQL Example (⭐143k)](https://github.com/vercel/next.js/tree/canary/examples/with-typescript-graphql) - Type-protected GraphQL example on Next.js running graphql-codegen under the hood.
+*   [Next.js TypeScript and GraphQL Example (⭐144k)](https://github.com/vercel/next.js/tree/canary/examples/with-typescript-graphql) - Type-protected GraphQL example on Next.js running graphql-codegen under the hood.
 
 ### TypeScript Examples / React
 
@@ -315,10 +321,6 @@ Awesome list of GraphQL
 ### Tools - API Clients & Workbenches / React
 
 *   [GalleonQL](https://galleonql.com/) - A desktop API client built specifically for GraphQL (macOS, Windows, Linux), pairing an introspected schema browser with an incremental query builder and switchable endpoint profiles.
-
-### Tools - Security / React
-
-*   [WAF for GraphQL](https://lab.wallarm.com/api-security-solution/) - Web application firewall for GraphQL APIs.
 
 ### Data APIs & Gateways / React
 

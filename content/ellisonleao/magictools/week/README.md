@@ -36,6 +36,7 @@
 
 ### AI / Voxel Editors
 
+*   :money\_with\_wings: [GameSkill](https://gameskill.dev) - Curated catalog of 145+ game development agent skills (`SKILL.md`) and MCP servers for Godot, Unity, Unreal, Blender, and Phaser, plus 16 zero-login interactive browser labs covering combat juice, shaders, AI video-to-sprite pipelines, puzzle solvers, and roguelike math. Free MIT skills and labs; optional Pro packs.
 *   :tada: [Genex (⭐909)](https://github.com/genex-games/genex-desktop) - Open-source desktop app where AI agents set up Unreal Engine, Unity, Godot, Roblox or Three.js, build the game, play-test it and publish it to Mac, Windows, Linux and the web. Works with Claude Code, Codex, Antigravity (Gemini models), OpenCode or local models.
 *   :money\_with\_wings: [Tyrbo](https://tyrbo.ai) - AI agent that makes mobile games from a description: plans the game with concept art, builds it with its art, 2D and 3D animation and sound, tests it by playing it, and runs it on your phone from a QR code.
 
@@ -141,7 +142,7 @@
 
 ### Graphics / Vector/Image Editor
 
-*   :money\_with\_wings: [klad](https://klad.studio) - Drawing and animation app for 2D game art that people and coding agents edit together: every stroke and fill stays editable data, pixel layers, tilesets with Godot TileSet export, Aseprite in and out, sprite sheet and GIF export, and MIT agent skills that teach any agent to paint and judge drawing and pixel art. Free for personal use and small companies. [Source (⭐162)](https://github.com/klad-app/klad)
+*   :money\_with\_wings: [klad](https://klad.studio) - Drawing and animation app for 2D game art that people and coding agents edit together: every stroke and fill stays editable data, pixel layers, tilesets with Godot TileSet export, Aseprite in and out, sprite sheet and GIF export, and MIT agent skills that teach any agent to paint and judge drawing and pixel art. Free for personal use and small companies. [Source (⭐347)](https://github.com/klad-app/klad)
 *   :free: [PixelArtHive Sprite Upscaler](https://pixelarthive.com/pixel-art-upscaler) - Resize sprites for 2D games at whole-number scales without blur. Runs in the browser without uploading the sprite.
 
 ### AI / Voxel Editors
@@ -331,7 +332,7 @@
 *   :tada: [Stage.js](https://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 *   :tada: [Starling](https://gamua.com/starling/) - The GPU powered 2D Flash API
 *   :money\_with\_wings: [Stencyl](https://www.stencyl.com/) - a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
-*   :tada: [Supernova Engine (⭐920)](https://github.com/supernovaengine/supernova) - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
+*   :tada: [Supernova Engine (⭐962)](https://github.com/supernovaengine/supernova) - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
 *   :tada: [Three.js](https://threejs.org/) - Javascript 3D Library.
 *   :tada: [Turbulenz](https://ga.me/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 *   :tada: [Twine](https://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
@@ -441,7 +442,7 @@
 
 ### Complete Game Sources / Voxel Editors
 
-*   :tada: [Duke Nukem 3D: Atomic Edition (⭐128)](https://github.com/fabiensanglard/vanilla_duke3D)
+*   :tada: [Duke Nukem 3D: Atomic Edition (⭐129)](https://github.com/fabiensanglard/vanilla_duke3D)
 
 ### Communities / Voxel Editors
 

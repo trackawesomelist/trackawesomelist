@@ -57,7 +57,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [KushoAI](https://kusho.ai/) - AI-native platform for API contract testing, end-to-end testing, UI testing, and continuous security scanning, with self-healing tests that automatically adapt to code changes in CI/CD.
 *   [postman2pytest (⭐20)](https://github.com/golikovichev/postman2pytest) - Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.
 *   [funapi](https://funapi.dev) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
-*   [SolidPing (⭐33)](https://github.com/fclairamb/solidping) - Open-source (AGPL-3.0) uptime and API monitoring with a free hosted tier. Runs HTTP, gRPC, WebSocket and custom JS checks on a schedule and alerts when an endpoint fails.
+*   [SolidPing (⭐64)](https://github.com/fclairamb/solidping) - Open-source (AGPL-3.0) uptime and API monitoring with a free hosted tier. Runs HTTP, gRPC, WebSocket and custom JS checks on a schedule and alerts when an endpoint fails.
 *   [BestJSON JSON Diff](https://bestjson.com/json-diff) - Free browser tool for comparing saved JSON API responses by structure, with explicit array-order and record-ID matching rules.
 *   [Kerno](https://kerno.io) - The AI Backend Runtime QA Engineer. Runs locally inside your coding agent's loop through MCP and tests each change against your running app and its real databases, queues and services.
 *   [OpenAPI Breaking Change Checker](https://martingruner.com/tools/openapi-breaking-change-checker) - Free browser tool that compares two Swagger 2.0 or OpenAPI 3.0/3.1 descriptions (JSON or YAML) and sorts each change into likely breaking, review-needed or compatible; the files stay in the browser.
@@ -75,7 +75,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### AI & LLM Testing
 
-*   [promptfoo (⭐27k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+*   [promptfoo (⭐28k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 *   [voicetest (⭐40)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 *   [AgentSkeptic (⭐0)](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
 *   [Evaliphy (⭐18)](https://github.com/evaliphy/evaliphy) - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
@@ -86,7 +86,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [aiexpect (⭐2)](https://github.com/dmsehgal/aiexpect) - Python assertions for non-deterministic AI text that drop into pytest. Semantic and rule checks work offline; optional LLM judge with your own model; produces a Trust Score and a single-file HTML report.
 *   [OrcaReplay (⭐1.2k)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent session below the harness, keeping the verbatim request and response bytes, then replays the same run offline with the network off or forks it from a checkpoint onto other models with a verify command deciding the verdict.
 *   [flight-recorder (⭐1)](https://github.com/xag/flight-recorder) - Record every nondeterministic input your code reads (LLM answers, HTTP, database, clock, randomness) as one JSONL tape per request, then replay the tape against the real code offline, bit for bit, with the first divergence named. Open format with Python, Node, .NET, Go, Java and PHP implementations.
-*   [OrcaPromptVault (⭐133)](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
+*   [OrcaPromptVault (⭐485)](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
 *   [fanout-check (⭐1)](https://github.com/sunxiuguo/fanout-check) - Offline Python library and CLI that checks observed concurrency, overlap, and launch timing in explicitly grouped tool or agent calls.
 *   [llmdrill (⭐0)](https://github.com/hamarshehmhmd/llmdrill) - Open-source CLI that runs your app behind a local fake of the Anthropic and OpenAI APIs, injects outages (529/503 overloads, 429 with retry-after, hangs, cut streams) and grades its retries, backoff, timeouts and failover.
 *   [evalship](https://evalship.com/) - GitHub App that finds flaws in your LLM evals, says on every pull request which evals a change broke and why, and finds prompt and model changes that win beyond chance.
@@ -96,6 +96,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [agentest (⭐2)](https://github.com/srpadmanabhuni/agentest) - Open-source CLI that runs 130 deterministic checks on recorded OpenTelemetry GenAI traces, A2A agent cards and MCP tool lists, offline and without an LLM judge, and exports JUnit or SARIF for CI.
 *   [EvalShift (⭐16)](https://github.com/evalshift/evalshift-cli) - Open-source CLI for regression testing LLM apps and agents before a model change: replays the same cases on two models and reports which outputs and tool calls regressed.
 *   [Apex verify (⭐4)](https://github.com/apex-engine-dev/apex-verify) - Checks whether an AI coding agent's change does what was asked: a second model writes checks from the task without seeing the change, proves they fail on the old code, and gives a verdict with evidence. CLI and GitHub Action, Apache-2.0.
+*   [100x Engineer Skill (⭐707)](https://github.com/DeadInternetStudios/100x-engineer-skill) - Skill and CLI that makes a coding agent state formal properties before building, checks them, and records second-model review evidence before the work can be called done.
 
 ### Service Virtualization
 
@@ -148,97 +149,51 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### UI & End-to-End Testing
 
 *   [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
-
 *   [Agentic Test Explorer (⭐37)](https://github.com/srbarrios/agentic-test-explorer) - Open-source (MIT) AI exploratory testing framework: LangGraph persona agents drive a real browser through a deterministic Playwright engine, and every bug found becomes a reproducible Playwright spec. Can generate test missions from a GitHub pull request.
-
 *   [ai-wright (⭐1)](https://github.com/TestChimp/ai-wright) - Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.
-
 *   [AnalyticsProof](https://analyticsproof.com) - Regression tests for analytics tracking: replays recorded website journeys and reports which step lost a dataLayer event or GA4 parameter. Has a free plan.
-
 *   [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
-
 *   [Browser Use (⭐122k)](https://github.com/browser-use/browser-use) - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
-
 *   [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
-
 *   [cloudf.one](https://www.cloudf.one) - Rent a real Samsung Android phone in Singapore on a Singtel or M1 SIM and use it from a browser tab, to check how an app behaves for Singapore users. Manual use only, no Appium or scripts.
-
 *   [Clousd](https://clousd.com) - Cloud Android phones (150+ device models, Android 12-17) for app testing in a browser tab, over ADB, or through a REST API and MCP server for AI-driven tests.
-
 *   [ContextQA MCP](https://mcp.contextqa.com/docs) - Hosted MCP server for creating and running end-to-end tests and investigating failures, with OAuth browser sign-in.
-
 *   [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
-
 *   [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to GitHub Actions to test only the flows that have changed in a PR.
-
 *   [Device Hub Pro (⭐192)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
-
 *   [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
-
 *   [Drengr](https://drengr.dev) - Mobile tests written as plain-English tasks instead of selectors, driven by an agent on real Android devices and iOS simulators. Works where there is no accessibility tree — canvas, games, Flutter without semantics labels — by falling back to vision and coordinates. Runs locally or in CI; bring your own model key.
-
 *   [Drengr Runner (⭐1)](https://github.com/SharminSirajudeen/drengr-runner) - Drive an iOS simulator over HTTP from any language. A 479-line Swift XCTest target replacing WebDriverAgent on simulators. Apache-2.0.
-
 *   [e2e (⭐14k)](https://github.com/tester-army/e2e) - Open-source end-to-end testing framework for web and mobile apps, combining natural-language agent actions with locators and assertions.
-
 *   [Ferrum (⭐2.1k)](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
-
 *   [flutter-skill (⭐410)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
-
 *   [GenClass (⭐11)](https://github.com/genclass-dev/GenClass) - Open-source browser library that reports race conditions in a web app while they happen (stale responses written over newer data, duplicate submits, failure storms) with a small on-device model. Its local MCP server re-runs a page with responses delivered in different orders to find races and replays one order to prove a fix.
-
 *   [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
-
 *   [Hercules (⭐1.2k)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
-
 *   [Kane CLI](https://www.testmuai.com/kane-cli/) - Natural-language browser testing from the terminal, locally or in CI, with export to Playwright and shareable run evidence.
-
 *   [Keploy](https://keploy.io) – Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
-
 *   [mendwright (⭐1)](https://github.com/saadbuilt/mendwright) - Self-healing selectors for Playwright and Selenium in Python. Repairs a broken selector from a saved fingerprint of the element, asks a model only when that isn't enough, checks the repair on the live page and can write it back into your code.
-
 *   [Mockatoo](https://mockatoo.globalunderdog.com) - Free hosted mock OAuth provider for Google, GitHub, Microsoft, Apple and four other providers, so E2E tests in Playwright, Cypress or CI can sign in without real accounts, CAPTCHAs or app registration.
-
 *   [Momentic](https://momentic.ai) - End-to-end tests for web apps in Chromium and mobile apps on hosted iOS simulators and Android emulators, written as YAML that mixes preset steps with natural-language AI steps and run from a CLI locally or in CI. Includes Mo, an agent that explores a running app from a brief and reports findings with evidence.
-
 *   [Proxy QA Browser (⭐1)](https://github.com/UbaidBinWaris/proxy_browser) - Free, open-source desktop app to test your own web forms by US location, emulated device and browser, with recorded scenarios, consent and accessibility checks, and a CI runner.
-
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
-
 *   [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime
-
 *   [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
-
 *   [playwright-bdd (⭐835)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
-
 *   [QA Wolf (⭐3.5k)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
-
 *   [qmax-mcp (⭐4)](https://github.com/Quality-Max/qmax-mcp) - MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
-
 *   [Replay QA](https://replay.io/) - Autonomous QA agent for web apps built on Replay's time-travel runtime recording and analysis. It explores an app from its URL, writes and runs Playwright tests, and delivers a root-cause analysis for each failure, backed by evidence from the recorded execution. Free tier, no credit card.
-
 *   [tapflow (⭐2.3k)](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
-
 *   [UI Coverage Tool (⭐10)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
-
 *   [vibe-testing (⭐18)](https://github.com/AishwaryShrivastav/vibe-testing) - Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.
-
 *   [VibeView](https://vibeview.io/) - Run & test iOS, Android, Apple TV and Android TV apps right in your browser, with Roku in beta. Build tests by recording a flow or write steps in plain English, flows can be ran cross-platform, and wired into pull requests. When a step fails - AI agent takes over so the rest of the run still completes, and the report tells you what changed based on failed steps and visual diff.
-
 *   [Waterfall AI Test (⭐9)](https://github.com/jiongfeng/waterfall-ai-test-platform) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
-
 *   [agent-qa (⭐862)](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests, with execution memory and regression detection.
-
 *   [assay (⭐110)](https://github.com/awss1i/assay) - Deterministic command-line QA tool that serves a local web page, drives every control it finds in Chromium through Playwright. No tests to write and no LLM, with a Python API, an HTML report, and a plugin for AI coding agent. MIT, Python.
-
 *   [Device Changer](https://deviceschanger.org) - Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.
-
 *   [ShipShape (⭐0)](https://github.com/Shadysmetools/shipshape) - Open-source (MIT) Claude Code plugin that turns a plain-language goal into Playwright browser tests, runs each scenario twice to flag flaky results, and writes an offline HTML report with recorded video.
-
 *   [sitelooper (⭐1)](https://github.com/restspace/sitelooper) - Open-source (MIT) CLI that records a browser flow from plain-English steps with an LLM agent, then compiles it into a standalone Playwright spec that runs in CI with no model, and repairs the spec when the app changes.
-
 *   [Chromium Builds (⭐2)](https://github.com/holtdroid/chromium-builds) - Unofficial Chromium browser and Android WebView APKs for every milestone since 83, for x86\_64 emulators and arm64 devices, to test a web page or a WebView app on a specific browser version. Open source (MIT or Apache-2.0).
-
 *   [Selenia (⭐3)](https://github.com/penielny/selenia) - Open-source (MIT) Python library that finds Selenium elements from plain-English descriptions with a 24 MB model that runs on CPU. No LLM or API key; it raises an error instead of guessing when no element, or two elements, fit.
 
 ### Test Report Diagnostics
@@ -307,7 +262,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [AuditReady](https://feaefe371424d0725b266468856c9101.ctonew.app/) - Runs 12 deterministic HTML checks on a page against WCAG 2.2 and returns the matching criterion and a suggested fix for each finding, then turns them into a printable report an agency can hand to its client. Free instant scan; the full report is a one-off $29.
 *   [Barbwire](https://barbwire.ai) - Sends AI buyer personas built from your site through the live pages in a real browser, and reports where each one would stop buying, with a step-by-step replay, screenshots and fixes ranked worst first. 10 free runs, no card; paid plans from €49/month.
 *   [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
-*   [Oh My Android (⭐149)](https://github.com/ateymoori/oh-my-android) - Free, open-source macOS app for checking Android apps on emulators and phones in dark mode, large font sizes, RTL and TalkBack, with a TalkBack-order accessibility audit.
+*   [Oh My Android (⭐169)](https://github.com/ateymoori/oh-my-android) - Free, open-source macOS app for checking Android apps on emulators and phones in dark mode, large font sizes, RTL and TalkBack, with a TalkBack-order accessibility audit.
 *   [Persqo](https://persqo.com) - Runs AI personas (different ages, devices and patience levels) through a live web app in a real browser and returns ranked issues with screenshots and severity, plus ready-to-paste fix prompts for your coding agent. 3 free test sessions, no card; paid plans from $59/month.
 *   [RateMyApp Testing Brief Builder](https://ratemyapp.io/tools/app-testing-brief-builder/) - Free, no-account tool for writing mobile usability-testing tasks, expected outcomes, and feedback instructions.
 *   [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.

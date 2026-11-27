@@ -47,6 +47,20 @@ A collective list of free APIs
 
 
 
+### Books
+
+- API: [Sovereign Logos](https://sovereignlogos.com/developers)
+
+  Description: Septuagint, KJV with Apocrypha, Geneva and WEB Bible text with citation links
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Business
 
 - API: [CEA Digital](https://ceadigital.io/tools)
@@ -65,6 +79,31 @@ A collective list of free APIs
   Description: Manufacturer directory with supplier matching, cost estimates and prototype sourcing plans
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Cryptocurrency
+
+- API: [BaniPool](https://banipool.com/docs/api)
+
+  Description: Multichain DEX liquidity pools (Uniswap, Aerodrome, Orca, Raydium) with TVL, volume and fee APR
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [SODAX](https://docs.sodax.com/developers/http-api)
+
+  Description: Cross-network swap quotes and intents across 20+ networks, plus token, price and intent data
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -131,6 +170,17 @@ A collective list of free APIs
 
 
 ### Documents & Productivity
+
+- API: [EditPDF Tools](https://editpdf.tools/compress-pdf-api)
+
+  Description: Compress PDF files over HTTPS with 3 quality levels. Free tier: 30 files/month, up to 10 MB
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
 
 - API: [PagedPDF](https://pagedpdf.com/docs/)
 
@@ -238,6 +288,20 @@ A collective list of free APIs
 
 
 
+### Music
+
+- API: [Static Radio](https://staticradio.app/developers)
+
+  Description: Live schedule and listener counts for nine radio stations of independent podcasts
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Photography
 
 - API: [AI GIF Maker](https://aigifmaker.readthedocs.io/en/latest/)
@@ -273,6 +337,17 @@ A collective list of free APIs
   Description: Etsy listing, shop and keyword analytics: estimated sales, revenue, search volume and competition
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Prezzi in Vista](https://www.prezzinvista.it/developers/)
+
+  Description: Offers in the weekly flyers of Italian supermarket and electronics chains, with the nearest store
+
+  Auth: No
 
   HTTPS: Yes
 
@@ -338,6 +413,34 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+
+### Transportation
+
+- API: [GADUIN](https://gaduin.com/docs/api)
+
+  Description: Flight status, airport and rail station boards, ship traffic at 28 chokepoints, 667 port boards
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Vehicle
+
+- API: [Census EV](https://censusev.com/api/v1)
+
+  Description: Electric and plug-in hybrid cars for sale in the US, with price, mileage, range and price history
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -1269,7 +1372,7 @@ A collective list of free APIs
   Install: [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=dev.companyfacts) · [Glama](https://glama.ai/mcp/servers/groundtruthtools/ats-jobs-mcp)
 
 
-- Name: [EU Nordic Open Data (⭐0)](https://github.com/itulo/eu-nordic-open-data-mcp)
+- Name: [EU Nordic Open Data (⭐1)](https://github.com/itulo/eu-nordic-open-data-mcp)
 
   Description: EU tenders, sanctions, VIES VAT, ECB FX, ENISA EUVD, GLEIF LEI and Finnish/Norwegian registries
 
@@ -1357,7 +1460,7 @@ A collective list of free APIs
   Install: [Anthropic](https://claude.ai/directory/connectors/sofya) · [Glama](https://glama.ai/mcp/connectors/co.sofya/sofya) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=co.sofya/sofya)
 
 
-- Name: [Transcript Dock (⭐0)](https://github.com/TranscriptDock/transcriptdock-mcp)
+- Name: [Transcript Dock (⭐1)](https://github.com/TranscriptDock/transcriptdock-mcp)
 
   Description: Transcripts of YouTube, TikTok and Instagram videos in one tool call, with SRT and VTT exports
 
@@ -1410,7 +1513,7 @@ A collective list of free APIs
   CORS: Yes
 
 
-- API: [Buku Indonesia (⭐1)](https://github.com/khrlanamm/buku-indonesia#api)
+- API: [Buku Indonesia (⭐2)](https://github.com/khrlanamm/buku-indonesia#api)
 
   Description: Open data for Indonesian books by ISBN, author, and category
 
@@ -2032,7 +2135,7 @@ A collective list of free APIs
 
 ### Photography
 
-- API: [CropDen (⭐2)](https://github.com/geektao1024/social-media-image-sizes#json-over-http)
+- API: [CropDen (⭐3)](https://github.com/geektao1024/social-media-image-sizes#json-over-http)
 
   Description: Image sizes, safe zones and upload limits for 14 social platforms and passport photos
 
@@ -6391,7 +6494,7 @@ A collective list of free APIs
 
 ### APIs Covered Under APILayer Suite!
 
-- Name: [Catastro GPS (⭐1)](https://github.com/TheHiddenPandaDev/catastro_gps_mcp)
+- Name: [Catastro GPS (⭐2)](https://github.com/TheHiddenPandaDev/catastro_gps_mcp)
 
   Description: Cadastral parcels in 29 European countries by reference, point or address
 
@@ -6402,7 +6505,7 @@ A collective list of free APIs
   Install: [Glama](https://glama.ai/mcp/servers/TheHiddenPandaDev/catastro_gps_mcp)
 
 
-- Name: [Edgepedia (⭐1)](https://github.com/EdgePlat/edgepedia-mcp)
+- Name: [Edgepedia (⭐3)](https://github.com/EdgePlat/edgepedia-mcp)
 
   Description: Search and read Edgepedia, a free and growing encyclopedia with citations
 
@@ -6413,7 +6516,7 @@ A collective list of free APIs
   Install: [Glama](https://glama.ai/mcp/connectors/ai.edgechat/edgepedia)
 
 
-- Name: [Monocrawl (⭐13)](https://github.com/monocrawl/monocrawl-mcp)
+- Name: [Monocrawl (⭐15)](https://github.com/monocrawl/monocrawl-mcp)
 
   Description: Public posts, profiles, comments and products from 70+ social, shopping and search platforms
 

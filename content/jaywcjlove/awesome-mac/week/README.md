@@ -10,6 +10,7 @@
 
 ### Reading and Writing Tools / Writing
 
+*   [Pagekin (AI Novel Writer) (⭐2.9k)](https://github.com/EthanYoQ/Pagekin) - Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/EthanYoQ/Pagekin) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Meboki](https://meboki.com) - Open-source grammar checker that runs a local model on your Mac and fixes text in any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mebokihq/meboki) ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Developer Tools / IDEs
@@ -96,6 +97,7 @@
 
 ### Utilities / General Tools
 
+*   [Earth Now](https://hensobo.github.io/earth-now/) - Live 3D Earth as your desktop wallpaper, with the real sun position, city lights and satellite clouds. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Hensobo/earth-now) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Verticar (⭐3)](https://github.com/sarogreco/Verticar) - Open-source app for using an iPad as a portrait second display over Sidecar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sarogreco/Verticar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Productivity
@@ -105,6 +107,7 @@
 ### Utilities / Window Management
 
 *   [AutoWindow](https://zein.nl/autowindow/) - Open-source menu bar app that restores window layouts per monitor setup and per Mission Control desktop. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Carpe-Futurum/autowindow) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [WindowShade](https://windowshade.aaronlau.me/en/) - Double-click a title bar and the window rolls up into a thin bar where it was; also pinned previews and Picture in Picture. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/surfine/WindowShade) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Finder Tools
 
@@ -118,6 +121,11 @@
 
 *   [PowerLock (⭐7)](https://github.com/pandengyao/PowerLock) - Keeps your Mac unlocked and awake with the lid closed while on AC power, and restores normal sleep on battery. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pandengyao/PowerLock) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [TurboControl (⭐4)](https://github.com/vladsboev-web/TurboControl) - Lightweight menu bar utility for Intel Macs: 1-click Intel Turbo Boost toggle, fan speed control, and live CPU/GPU thermal monitoring. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vladsboev-web/TurboControl) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Gaming Software / System Related Tools
+
+*   [Coinsole (⭐0)](https://github.com/anvibe/coinsole) - Turns your Mac into a game console: add your own web games or Mac apps and play with an Xbox or PlayStation controller. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/anvibe/coinsole)
+*   [DropExe](https://hollowbit.dev/dropexe/) - Run Windows games and apps on Apple Silicon through Wine, with one-click Steam and Epic installs, drag-and-drop for any .exe, and a Make it run button that tries graphics settings (DXMT, DXVK, D3DMetal) until a game starts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hollowbit-dev/dropexe)
 
 ### Remote Login Software / System Related Tools
 
@@ -450,7 +458,7 @@
 
 ### Utilities / Finder Tools
 
-*   [PC Mode (⭐5)](https://github.com/getguruhat/PCMode) - Free app that brings Windows habits to your Mac: delete from Finder with the Delete key, cut and move files with ⌘X and ⌘V, and switch individual windows with ⌘Tab. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getguruhat/PCMode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [PC Mode (⭐8)](https://github.com/getguruhat/PCMode) - Free app that brings Windows habits to your Mac: delete from Finder with the Delete key, cut and move files with ⌘X and ⌘V, and switch individual windows with ⌘Tab. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getguruhat/PCMode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Utilities / Quality of Life Improvements
 
@@ -617,7 +625,7 @@
 
 ### Terminal Apps / Databases
 
-*   [ghostty-designer (⭐117)](https://github.com/reemus-dev/ghostty-designer) - Live-preview editor for Ghostty themes, fonts and UI settings. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/reemus-dev/ghostty-designer) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ghostty-designer (⭐125)](https://github.com/reemus-dev/ghostty-designer) - Live-preview editor for Ghostty themes, fonts and UI settings. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/reemus-dev/ghostty-designer) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screenshot Tools
 
@@ -692,7 +700,7 @@
 *   [MacResourceMonitor (⭐2)](https://github.com/x0c/MacResourceMonitor) - Menu bar CPU monitor to see which process is eating CPU and terminate it directly. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/x0c/MacResourceMonitor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [HideNotch](https://hidenotch.app) - Paints the menu bar black on notched MacBooks so the notch blends in, with optional rounded screen corners. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/niklasravnsborg/HideNotch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Netty](https://alvaldes.github.io/netty/) - Open-source menu bar dot that shows whether the internet really answers, with latency, jitter, packet loss and speed tests. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alvaldes/netty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
-*   [Pulse (⭐34)](https://github.com/emgeorrk/pulse) - Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/emgeorrk/pulse) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Pulse (⭐36)](https://github.com/emgeorrk/pulse) - Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/emgeorrk/pulse) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Stash (⭐12)](https://github.com/brentc22/stash) - Open-source menu bar icon hider for macOS 27 that collapses status items behind a single arrow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brentc22/stash) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [StableBar](https://stablebar.app) - Customizable menu bar replacement with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Seb-GRAF/StableBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [Swamp Converter (⭐5)](https://github.com/aansonsa/swamp-converter) - Menu bar file converter: drag a file, tap a key and drop it on a wheel to convert video, audio, images and PDFs. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aansonsa/swamp-converter) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
@@ -1068,7 +1076,7 @@
 
 ### Translation Tools / Audio Record and Process
 
-*   [Translate Like Me (⭐18)](https://github.com/wiltodelta/translate-like-me) - Open-source menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wiltodelta/translate-like-me) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Translate Like Me (⭐20)](https://github.com/wiltodelta/translate-like-me) - Open-source menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wiltodelta/translate-like-me) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 
@@ -1077,7 +1085,7 @@
 
 ### Utilities / Cleanup and Uninstall
 
-*   [DiskWise (⭐33)](https://github.com/DreamOfXM/diskwise) - Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/DreamOfXM/diskwise) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [DiskWise (⭐34)](https://github.com/DreamOfXM/diskwise) - Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/DreamOfXM/diskwise) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MacDirStat (⭐127)](https://github.com/phalladar/MacDirStat) - Open-source disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/phalladar/MacDirStat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SquirrelDisk (⭐2.2k)](https://github.com/adileo/squirreldisk) - Open-source disk usage analyzer with sunburst and treemap views for disks and cloud storage. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/adileo/squirreldisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
@@ -1197,10 +1205,6 @@
 ### Reading and Writing Tools / Note-taking
 
 *   [VNote](https://docs.vnote.fun) - Open-source Markdown note-taking app with a polished editor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vnotex/vnote/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-### Reading and Writing Tools / Writing
-
-*   [AI Novel Writer (⭐2.7k)](https://github.com/EthanYoQ/AI-Novel-Writer) - Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Developer Utilities
 

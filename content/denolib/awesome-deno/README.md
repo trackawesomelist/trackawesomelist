@@ -6,6 +6,24 @@ Curated list of awesome things related to Deno
 
 [ Daily / [Weekly](/content/denolib/awesome-deno/week/README.md) / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Nov 27, 2026](/content/2026/11/27/README.md)
+
+### Modules / Cloud APIs
+
+*   [binance (⭐937)](https://github.com/sieblyio/binance) - Typed Binance REST API and WebSocket client with request signing, reconnects and resubscription, usable via `npm:binance`.
+
+### Modules / Social Platform APIs
+
+*   [Alice\&Bot (⭐8)](https://github.com/uriva/alice-and-bot) - Open-source, end-to-end encrypted messaging platform and SDK (`@alice-and-bot/core`) for humans and AI agents with keypair identities, group chats, webhooks, embeddable UI, and an MCP server.
+
+### Modules / Testing
+
+*   [time-provider (⭐1)](https://github.com/jaenyf/time-provider) - Injectable clock and timers with deterministic test runtimes, published on JSR.
+
+### Integrations / Webview
+
+*   [Prisma Postgres](https://www.prisma.io/docs/guides/integrations/deno) - Managed Postgres database you can provision from a Deno Deploy project, with a free plan.
+
 ## [Nov 20, 2026](/content/2026/11/20/README.md)
 
 ### Modules / Cloud APIs
@@ -42,8 +60,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Image
 
-*   [aigifmaker (⭐0)](https://github.com/hanshs474/aigifmaker-ts) - Turn text prompts into animated GIFs with the AI GIF Maker API.
-*   [ImageScript (⭐685)](https://github.com/imagescript/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐685)](https://github.com/imagescript/ImageScript) - Image processing in pure TypeScript, from PNG to AVIF and JPEG XL.
 
 ### Modules / Social Platform APIs
 
@@ -79,7 +96,7 @@ Curated list of awesome things related to Deno
 
 ### Showcases / Webview
 
-*   [Medusa Edge API Gateway (⭐1)](https://github.com/glastor-core/medusa) - Resilient Edge API Gateway and caching proxy on Deno Deploy with circuit breaker, single-flight deduplication, and Deno KV.
+*   [Medusa Edge API Gateway (⭐2)](https://github.com/glastor-core/medusa) - Resilient Edge API Gateway and caching proxy on Deno Deploy with circuit breaker, single-flight deduplication, and Deno KV.
 
 ### Tools / Webview
 
@@ -89,11 +106,11 @@ Curated list of awesome things related to Deno
 
 ### Modules / Cloud APIs
 
-*   [sigflint (⭐2)](https://github.com/bompus/sigflint) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
+*   [sigflint (⭐3)](https://github.com/bompus/sigflint) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
 
 ### Showcases / Webview
 
-*   [globnotes (⭐6)](https://github.com/alexindigo/globnotes) - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
+*   [globnotes (⭐8)](https://github.com/alexindigo/globnotes) - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
 
 ## [Oct 13, 2026](/content/2026/10/13/README.md)
 
@@ -111,17 +128,11 @@ Curated list of awesome things related to Deno
 
 *   [dmarc-rua (⭐2)](https://github.com/domaincanary/dmarc-rua) - Parse DMARC aggregate reports from XML, gzip, zip and report emails.
 
-## [Sep 14, 2026](/content/2026/09/14/README.md)
-
-### Modules / Image
-
-*   [kavel (⭐2)](https://github.com/hanshs474/kavel-ts) - Generate and edit images with AI without an API key or account.
-
 ## [Aug 14, 2026](/content/2026/08/14/README.md)
 
 ### Modules / Automation
 
-*   [zuke (⭐47)](https://github.com/zuke-build/zuke) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
+*   [zuke (⭐49)](https://github.com/zuke-build/zuke) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
 
 ## [Aug 13, 2026](/content/2026/08/13/README.md)
 
@@ -159,7 +170,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Social Platform APIs
 
-*   [discordeno (⭐938)](https://github.com/discordeno/discordeno) - Discord API library for Deno
+*   [discordeno (⭐943)](https://github.com/discordeno/discordeno) - Discord API library for Deno
 *   [grammY (⭐3.8k)](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
 
 ### Modules / Template engine
@@ -197,7 +208,7 @@ Curated list of awesome things related to Deno
 *   [denopkg (⭐238)](https://github.com/egoist-labs/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 *   dvm
     *   [asdf-community/asdf-deno (⭐132)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
-    *   [justjavac/dvm (⭐714)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
+    *   [justjavac/dvm (⭐713)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
     *   [ghosind/dvm (⭐52)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
 *   [pup (⭐197)](https://github.com/Hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
 
@@ -217,7 +228,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / CLI utils
 
-*   [commit-sage-cli (⭐62)](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI based on Git repository changes.
+*   [commit-sage-cli (⭐65)](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI based on Git repository changes.
 
 ## [May 07, 2025](/content/2025/05/07/README.md)
 
@@ -252,7 +263,7 @@ Curated list of awesome things related to Deno
 
 ### Tools / Webview
 
-*   [studio-pack-generator (⭐128)](https://github.com/jersou/studio-pack-generator) - Convert a folder or a RSS URL to Studio pack for Lunii device
+*   [studio-pack-generator (⭐130)](https://github.com/jersou/studio-pack-generator) - Convert a folder or a RSS URL to Studio pack for Lunii device
 
 ## [Apr 22, 2024](/content/2024/04/22/README.md)
 
@@ -274,7 +285,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Web framework
 
-*   [alosaur (⭐817)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators.
+*   [alosaur (⭐818)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators.
 
 ## [Aug 22, 2023](/content/2023/08/22/README.md)
 
@@ -298,7 +309,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Web framework
 
-*   [danet (⭐532)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
+*   [danet (⭐531)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 
 ## [Nov 06, 2022](/content/2022/11/06/README.md)
 
@@ -335,7 +346,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Database
 
-*   [redis (⭐464)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+*   [redis (⭐463)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 
 ## [Jun 07, 2022](/content/2022/06/07/README.md)
 
@@ -378,7 +389,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Web framework
 
-*   [faster (⭐57)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
+*   [faster (⭐56)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 
 ## [Feb 06, 2022](/content/2022/02/06/README.md)
 
@@ -416,7 +427,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Editor framework
 
-*   [Denops (⭐794)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
+*   [Denops (⭐795)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
 ## [Sep 28, 2021](/content/2021/09/28/README.md)
 
@@ -428,11 +439,11 @@ Curated list of awesome things related to Deno
 
 ### Modules / Database
 
-*   [postgres (⭐653)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
+*   [postgres (⭐652)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
 
 ### Modules / Testing
 
-*   [unexpected (⭐367)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
+*   [unexpected (⭐366)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 
 ### Modules / Utils
 
@@ -648,7 +659,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / CLI utils
 
-*   [cac (⭐3.1k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
+*   [cac (⭐3.2k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 
 ## [Feb 06, 2019](/content/2019/02/06/README.md)
 

@@ -204,7 +204,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 *   :tada: [Gimp](https://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
 *   :tada: [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
-*   :money\_with\_wings: [klad](https://klad.studio) - Drawing and animation app for 2D game art that people and coding agents edit together: every stroke and fill stays editable data, pixel layers, tilesets with Godot TileSet export, Aseprite in and out, sprite sheet and GIF export, and MIT agent skills that teach any agent to paint and judge drawing and pixel art. Free for personal use and small companies. [Source (⭐162)](https://github.com/klad-app/klad)
+*   :money\_with\_wings: [klad](https://klad.studio) - Drawing and animation app for 2D game art that people and coding agents edit together: every stroke and fill stays editable data, pixel layers, tilesets with Godot TileSet export, Aseprite in and out, sprite sheet and GIF export, and MIT agent skills that teach any agent to paint and judge drawing and pixel art. Free for personal use and small companies. [Source (⭐347)](https://github.com/klad-app/klad)
 *   :tada: [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 *   :tada: [LibreSprite](https://libresprite.github.io/) - LibreSprite is an open source fork of Aseprite.
 *   :moneybag: [Lightcube](https://www.lightcube.art/) - Pixel Art Editor for Windows, supposed PSD files in addition to JPEG, PNG, BMP, GIF.
@@ -409,7 +409,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :tada: [Starling](https://gamua.com/starling/) - The GPU powered 2D Flash API
 *   :money\_with\_wings: [Stencyl](https://www.stencyl.com/) - a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
 *   :tada: [Stride](https://stride3d.net/) - Open Source C# Game Engine.
-*   :tada: [Supernova Engine (⭐920)](https://github.com/supernovaengine/supernova) - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
+*   :tada: [Supernova Engine (⭐962)](https://github.com/supernovaengine/supernova) - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
 *   :tada: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 *   :tada: [Three.js](https://threejs.org/) - Javascript 3D Library.
 *   :tada: [TIC-80](https://tic.computer/) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
@@ -439,6 +439,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :money\_with\_wings: [Coplay](https://coplay.dev?ref=github\&utm_source=magictools) - AI Copilot for Unity
 *   :money\_with\_wings: [Flockbay](https://flockbay.com/?utm_source=magictools\&utm_medium=directory\&utm_campaign=listing) - Free AI game maker built on Godot: a desktop app where an AI agent builds and playtests a Godot 4 project on your disk, on free hosted AI, your own Claude or ChatGPT account, or your own agent over MCP. Optional paid plans add hosted AI usage.
 *   :tada: [Fluent Behaviour Tree (⭐394)](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
+*   :money\_with\_wings: [GameSkill](https://gameskill.dev) - Curated catalog of 145+ game development agent skills (`SKILL.md`) and MCP servers for Godot, Unity, Unreal, Blender, and Phaser, plus 16 zero-login interactive browser labs covering combat juice, shaders, AI video-to-sprite pipelines, puzzle solvers, and roguelike math. Free MIT skills and labs; optional Pro packs.
 *   :tada: [Genex (⭐909)](https://github.com/genex-games/genex-desktop) - Open-source desktop app where AI agents set up Unreal Engine, Unity, Godot, Roblox or Three.js, build the game, play-test it and publish it to Mac, Windows, Linux and the web. Works with Claude Code, Codex, Antigravity (Gemini models), OpenCode or local models.
 *   :money\_with\_wings: [Gridize](https://gridize.dev/?utm_source=magictools) - AI pixel art sprite and animation generator: make sprites from a prompt or upload your own, animate idle, attack, spell and turnaround clips of 9 to 49 frames on one consistent pixel grid, and export GIF, WebP, PNG frames or sprite sheets with timing JSON. Free credits on signup.
 *   :free: [IndieToolChest](https://indietoolchest.com) - Curated directory of AI tools for indie game dev, organized by task (art, 3D, audio, NPCs, code, QA, marketing).
@@ -624,7 +625,7 @@ To get your pull request accepted, your link must follow these rules:
 *   :tada: [Canabalt iOS (⭐1.6k)](https://github.com/ericjohnson/canabalt-ios)
 *   :tada: [Doom (⭐20k)](https://github.com/id-Software/DOOM)
 *   :tada: [Doom 3 (⭐3.6k)](https://github.com/id-Software/DOOM-3)
-*   :tada: [Duke Nukem 3D: Atomic Edition (⭐128)](https://github.com/fabiensanglard/vanilla_duke3D)
+*   :tada: [Duke Nukem 3D: Atomic Edition (⭐129)](https://github.com/fabiensanglard/vanilla_duke3D)
 *   :tada: [NetHack (⭐4k)](https://github.com/NetHack/NetHack)
 *   :tada: [OpenRA (⭐18k)](https://github.com/OpenRA/OpenRA)
 *   :tada: [OpenTTD (⭐8.5k)](https://github.com/OpenTTD/OpenTTD)

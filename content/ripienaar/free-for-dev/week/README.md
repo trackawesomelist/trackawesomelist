@@ -28,6 +28,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Monitoring
 
 *   [12happy](https://www.12hpy.com/) - Free uptime service monitoring with status page for your product. Apps for both iOS and Android, notifications via Slack, Telegram and E-mail. Various locations. Free plan includes 50 monitors checked every 5 minutes.
+*   [The Network Tools](https://thenetworktools.com) - Automated domain and network infrastructure monitoring: scheduled DNS health, SSL certificate expiry, and email security (SPF/DKIM/DMARC) checks with public API and MCP server. Free tier includes 3 monitored domains, webhooks, and 100 req/min API.
 *   [Pingaroo](https://pingaroo.dev/) - 1 website, 2 URLs, uptime check with 15 minutes interval, SSL/DNS/domain checks, email alerts, no credit card needed.
 
 ### Education and Career Development
@@ -1740,7 +1741,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐37k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐38k)](https://github.com/langfuse/langfuse)
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 

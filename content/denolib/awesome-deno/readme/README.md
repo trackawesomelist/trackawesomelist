@@ -77,21 +77,22 @@ This list is a collection of the best Deno modules and resources.
 
 ### Automation
 
-*   [zuke (⭐47)](https://github.com/zuke-build/zuke) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
+*   [zuke (⭐49)](https://github.com/zuke-build/zuke) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
 
 ### CLI utils
 
-*   [cac (⭐3.1k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
+*   [cac (⭐3.2k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 *   [cli-spinner (⭐57)](https://github.com/ameerthehacker/deno-cli-spinners) - Show spinners in the terminal while running long tasks.
 *   [cliffy (⭐1.2k)](https://github.com/c4spar/cliffy) - The complete solution for building interactive command-line tools.
 *   [clinfer (⭐10)](https://github.com/jersou/clinfer) - Automatically generate CLIs from JS objects, classes or ES modules.
-*   [commit-sage-cli (⭐62)](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI based on Git repository changes.
+*   [commit-sage-cli (⭐65)](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI based on Git repository changes.
 *   [yargs (⭐12k)](https://github.com/yargs/yargs) - The modern, pirate-themed successor to optimist.
 
 ### Cloud APIs
 
 *   [aws-api](https://aws-api.danopia.deno.net/) - From-scratch Typescript AWS API client built for Deno.
-*   [sigflint (⭐2)](https://github.com/bompus/sigflint) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
+*   [binance (⭐937)](https://github.com/sieblyio/binance) - Typed Binance REST API and WebSocket client with request signing, reconnects and resubscription, usable via `npm:binance`.
+*   [sigflint (⭐3)](https://github.com/bompus/sigflint) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
 
 ### Database
 
@@ -100,12 +101,12 @@ This list is a collection of the best Deno modules and resources.
 *   [kvdock (⭐4)](https://github.com/zisam-glitch/kvdock) - Zero-dependency key-value and multi-tier caching engine with native Deno KV support and single-flight stampede protection.
 *   [maxminddb (⭐18)](https://github.com/josh-hemphill/maxminddb-wasm) - A library that enables the usage of MaxmindDB geoIP database files
 *   [nessie (⭐519)](https://github.com/lmxrd/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
-*   [postgres (⭐653)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
-*   [redis (⭐464)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+*   [postgres (⭐652)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
+*   [redis (⭐463)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 
 ### Editor framework
 
-*   [Denops (⭐794)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
+*   [Denops (⭐795)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
 ### Frontend framework
 
@@ -118,9 +119,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Image
 
-*   [aigifmaker (⭐0)](https://github.com/hanshs474/aigifmaker-ts) - Turn text prompts into animated GIFs with the AI GIF Maker API.
-*   [ImageScript (⭐685)](https://github.com/imagescript/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
-*   [kavel (⭐2)](https://github.com/hanshs474/kavel-ts) - Generate and edit images with AI without an API key or account.
+*   [ImageScript (⭐685)](https://github.com/imagescript/ImageScript) - Image processing in pure TypeScript, from PNG to AVIF and JPEG XL.
 
 ### Logging
 
@@ -141,8 +140,9 @@ This list is a collection of the best Deno modules and resources.
 
 ### Social Platform APIs
 
+*   [Alice\&Bot (⭐8)](https://github.com/uriva/alice-and-bot) - Open-source, end-to-end encrypted messaging platform and SDK (`@alice-and-bot/core`) for humans and AI agents with keypair identities, group chats, webhooks, embeddable UI, and an MCP server.
 *   [Circe (⭐1)](https://github.com/sxnnyside-project/circe) - Inversion-of-control framework for discord.js bots with file-system routing, guards and Gateway or HTTP transport.
-*   [discordeno (⭐938)](https://github.com/discordeno/discordeno) - Discord API library for Deno
+*   [discordeno (⭐943)](https://github.com/discordeno/discordeno) - Discord API library for Deno
 *   [grammY (⭐3.8k)](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
 *   [MTKruto (⭐175)](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
 
@@ -156,7 +156,8 @@ This list is a collection of the best Deno modules and resources.
 *   [qunitx (⭐36)](https://github.com/izelnakri/qunitx) - Zero dependency, fully customizable, mature, universal test API that can run interchangably in node.js, Deno & browser, using default runtime test runners.
 *   [superdeno (⭐123)](https://github.com/cmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
 *   [tepi (⭐6)](https://github.com/jupegarnica/tepi) - A .http Test Runner
-*   [unexpected (⭐367)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
+*   [time-provider (⭐1)](https://github.com/jaenyf/time-provider) - Injectable clock and timers with deterministic test runtimes, published on JSR.
+*   [unexpected (⭐366)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 
 ### Utils
 
@@ -187,10 +188,10 @@ This list is a collection of the best Deno modules and resources.
 
 ### Web framework
 
-*   [alosaur (⭐817)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators.
-*   [danet (⭐532)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
+*   [alosaur (⭐818)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators.
+*   [danet (⭐531)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 *   [drash (⭐1.1k)](https://github.com/drashland/drash) - A REST microframework for Deno's HTTP server with zero dependencies.
-*   [faster (⭐57)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
+*   [faster (⭐56)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 *   [faster\_react (⭐100)](https://github.com/hviana/faster_react) - Full Stack web framework with React + Faster. Fully compatible with Deno Deploy.
 *   [hono (⭐33k)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 *   [orpc (⭐5.8k)](https://github.com/middleapi/orpc) - End-to-end typesafe APIs with RPC and OpenAPI support, without code generation.
@@ -216,8 +217,8 @@ This list is a collection of the best Deno modules and resources.
 *   [Chobble Tickets (⭐37)](https://github.com/chobbledotcom/tickets) - Open source ticket sales system with encrypted attendee data and Stripe, Square, or SumUp payments.
 *   [Deno Rest (⭐163)](https://github.com/Prolifode/deno_rest) - A Boilerplate for deno RESTful apis.
 *   [GitHub Profile Trophy (⭐6.7k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
-*   [globnotes (⭐6)](https://github.com/alexindigo/globnotes) - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
-*   [Medusa Edge API Gateway (⭐1)](https://github.com/glastor-core/medusa) - Resilient Edge API Gateway and caching proxy on Deno Deploy with circuit breaker, single-flight deduplication, and Deno KV.
+*   [globnotes (⭐8)](https://github.com/alexindigo/globnotes) - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
+*   [Medusa Edge API Gateway (⭐2)](https://github.com/glastor-core/medusa) - Resilient Edge API Gateway and caching proxy on Deno Deploy with circuit breaker, single-flight deduplication, and Deno KV.
 *   [ShopSavvy Deno Deploy (⭐0)](https://github.com/shopsavvy/deno-deploy-shopsavvy) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
 *   [The Official Showcase](https://deno.com/showcase) - The official showcase of Deno.
 
@@ -235,17 +236,18 @@ This list is a collection of the best Deno modules and resources.
 *   [dnt (⭐1.3k)](https://github.com/denoland/dnt) - Deno to npm package build tool.
 *   dvm
     *   [asdf-community/asdf-deno (⭐132)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
-    *   [justjavac/dvm (⭐714)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
+    *   [justjavac/dvm (⭐713)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
     *   [ghosind/dvm (⭐52)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
 *   [make-deno-edition (⭐42)](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
 *   [nemesis (⭐1)](https://github.com/glastor-core/nemesis) - Automated DevSecOps auditing, repository hygiene, auto-fix, and compliance CLI built with Deno 2.
 *   [pup (⭐197)](https://github.com/Hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
-*   [studio-pack-generator (⭐128)](https://github.com/jersou/studio-pack-generator) - Convert a folder or a RSS URL to Studio pack for Lunii device
+*   [studio-pack-generator (⭐130)](https://github.com/jersou/studio-pack-generator) - Convert a folder or a RSS URL to Studio pack for Lunii device
 *   [vscode-deno (⭐1.5k)](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
 
 ## Integrations
 
 *   [Netlify Edge Functions](https://docs.netlify.com/build/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
+*   [Prisma Postgres](https://www.prisma.io/docs/guides/integrations/deno) - Managed Postgres database you can provision from a Deno Deploy project, with a free plan.
 *   [Slack Custom Functions](https://docs.slack.dev/tools/deno-slack-sdk/guides/creating-custom-functions/) - Build custom Run On Slack functions using Deno.
 *   [Smallweb](https://www.smallweb.run/) - A personal cloud contained in a single directory. You can customize the server behavior using Deno.
 *   [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.

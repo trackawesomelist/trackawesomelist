@@ -243,7 +243,7 @@ Awesome list of GraphQL
 *   [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 *   [F8 App 2017 (⭐14k)](https://github.com/fbsamples/f8app) - Source code for the official 2017 F8 app, built with React Native, Relay, and GraphQL.
 *   [Apollo React example for GitHub GraphQL API (⭐113)](https://github.com/katopz/react-apollo-graphql-github-example) - Example using Apollo React with the GitHub GraphQL API and Create React App.
-*   [Next.js TypeScript and GraphQL Example (⭐143k)](https://github.com/vercel/next.js/tree/canary/examples/with-typescript-graphql) - Type-protected GraphQL example on Next.js running graphql-codegen under the hood.
+*   [Next.js TypeScript and GraphQL Example (⭐144k)](https://github.com/vercel/next.js/tree/canary/examples/with-typescript-graphql) - Type-protected GraphQL example on Next.js running graphql-codegen under the hood.
 *   [VulcanJS](http://vulcanjs.org) - Full-stack React and GraphQL framework.
 *   [RAN Toolkit (⭐2.2k)](https://github.com/sly777/ran) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 
@@ -661,7 +661,7 @@ Awesome list of GraphQL
 *   [gqt (⭐468)](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 *   [Mongrel](https://www.visorcraft.com/) - Desktop workbench with a GraphQL client, plus HTTP, WebSocket, and gRPC, inside a multi-database GUI.
 *   [GalleonQL](https://galleonql.com/) - A desktop API client built specifically for GraphQL (macOS, Windows, Linux), pairing an introspected schema browser with an incremental query builder and switchable endpoint profiles.
-*   [Gostman (⭐67)](https://github.com/kunalgoesbyken/gostman) - Open source desktop and web API client with a schema browser, query validation, file uploads and subscriptions over WebSocket or server-sent events, plus REST, gRPC and more.
+*   [Gostman (⭐93)](https://github.com/kunalgoesbyken/gostman) - Open source desktop and web API client with a schema browser, query validation, file uploads and subscriptions over WebSocket or server-sent events, plus REST, gRPC and more.
 
 <a name="tool-testing" />
 
@@ -692,7 +692,6 @@ Awesome list of GraphQL
 *   [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - Automated GraphQL security scanning and vulnerability detection.
 *   [InQL Scanner (⭐1.8k)](https://github.com/doyensec/inql) - Burp extension for GraphQL security testing.
 *   [GraphQL Raider](https://portswigger.net/bappstore/4841f0d78a554ca381c65b26d48207e6) - Burp Suite extension for GraphQL security testing.
-*   [WAF for GraphQL](https://lab.wallarm.com/api-security-solution/) - Web application firewall for GraphQL APIs.
 *   [GraphQL Intruder (⭐13)](https://github.com/davinerd/gql_intruder) - Plugin-based Python script for performing GraphQL vulnerability assessments.
 *   [GraphQL Cop (⭐700)](https://github.com/dolevf/graphql-cop) - Security audit utility for GraphQL.
 *   [GraphQLer (⭐175)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool.
@@ -770,6 +769,7 @@ Awesome list of GraphQL
 
 *   [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - GraphQL analytics and monitoring service for identifying functional and performance issues.
 *   [Stellate](https://stellate.co/) - GraphQL edge platform for caching, observability, and API security, formerly known as GraphCDN.
+*   [GraphPilot](https://graphpilot.io/) - Managed GraphQL edge cache on Fastly's network that derives caching and invalidation from the schema and purges cached responses when a mutation returns a changed object.
 
 ### Data APIs & Gateways
 

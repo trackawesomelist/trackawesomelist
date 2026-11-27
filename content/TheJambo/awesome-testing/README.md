@@ -8,6 +8,10 @@ A curated list of testing resources
 
 ## [Nov 27, 2026](/content/2026/11/27/README.md)
 
+### Software / AI & LLM Testing
+
+*   [100x Engineer Skill (⭐707)](https://github.com/DeadInternetStudios/100x-engineer-skill) - Skill and CLI that makes a coding agent state formal properties before building, checks them, and records second-model review evidence before the work can be called done.
+
 ### Software / Screen Recording & Session Replays
 
 *   [Ghostframe Replay (⭐1)](https://github.com/zakariagharzouli/project-ghostframe) - A screenshot that replays its own steps: clicks, timings and notes are encoded in a strip of pixels at the bottom of a JPEG, then replayed in the browser, with no account. MIT.
@@ -215,7 +219,7 @@ A curated list of testing resources
 
 *   [API Spector](https://api-spector.dev) - Open-source API clien, mock server and contract testing tool. Zero telemetry.
 *   [Openhook (⭐6)](https://github.com/openhook-dev/openhook-inbox) - Open-source webhook inbox for capturing callbacks and inspecting request headers and bodies through a browser, REST API, or MCP.
-*   [SolidPing (⭐33)](https://github.com/fclairamb/solidping) - Open-source (AGPL-3.0) uptime and API monitoring with a free hosted tier. Runs HTTP, gRPC, WebSocket and custom JS checks on a schedule and alerts when an endpoint fails.
+*   [SolidPing (⭐64)](https://github.com/fclairamb/solidping) - Open-source (AGPL-3.0) uptime and API monitoring with a free hosted tier. Runs HTTP, gRPC, WebSocket and custom JS checks on a schedule and alerts when an endpoint fails.
 *   [BestJSON JSON Diff](https://bestjson.com/json-diff) - Free browser tool for comparing saved JSON API responses by structure, with explicit array-order and record-ID matching rules.
 *   [Kerno](https://kerno.io) - The AI Backend Runtime QA Engineer. Runs locally inside your coding agent's loop through MCP and tests each change against your running app and its real databases, queues and services.
 *   [OpenAPI Breaking Change Checker](https://martingruner.com/tools/openapi-breaking-change-checker) - Free browser tool that compares two Swagger 2.0 or OpenAPI 3.0/3.1 descriptions (JSON or YAML) and sorts each change into likely breaking, review-needed or compatible; the files stay in the browser.
@@ -230,7 +234,7 @@ A curated list of testing resources
 *   [aiexpect (⭐2)](https://github.com/dmsehgal/aiexpect) - Python assertions for non-deterministic AI text that drop into pytest. Semantic and rule checks work offline; optional LLM judge with your own model; produces a Trust Score and a single-file HTML report.
 *   [OrcaReplay (⭐1.2k)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent session below the harness, keeping the verbatim request and response bytes, then replays the same run offline with the network off or forks it from a checkpoint onto other models with a verify command deciding the verdict.
 *   [flight-recorder (⭐1)](https://github.com/xag/flight-recorder) - Record every nondeterministic input your code reads (LLM answers, HTTP, database, clock, randomness) as one JSONL tape per request, then replay the tape against the real code offline, bit for bit, with the first divergence named. Open format with Python, Node, .NET, Go, Java and PHP implementations.
-*   [OrcaPromptVault (⭐133)](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
+*   [OrcaPromptVault (⭐485)](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
 *   [fanout-check (⭐1)](https://github.com/sunxiuguo/fanout-check) - Offline Python library and CLI that checks observed concurrency, overlap, and launch timing in explicitly grouped tool or agent calls.
 
 ### Software / Service Virtualization
@@ -296,7 +300,7 @@ A curated list of testing resources
 
 *   [AuditReady](https://feaefe371424d0725b266468856c9101.ctonew.app/) - Runs 12 deterministic HTML checks on a page against WCAG 2.2 and returns the matching criterion and a suggested fix for each finding, then turns them into a printable report an agency can hand to its client. Free instant scan; the full report is a one-off $29.
 *   [Barbwire](https://barbwire.ai) - Sends AI buyer personas built from your site through the live pages in a real browser, and reports where each one would stop buying, with a step-by-step replay, screenshots and fixes ranked worst first. 10 free runs, no card; paid plans from €49/month.
-*   [Oh My Android (⭐149)](https://github.com/ateymoori/oh-my-android) - Free, open-source macOS app for checking Android apps on emulators and phones in dark mode, large font sizes, RTL and TalkBack, with a TalkBack-order accessibility audit.
+*   [Oh My Android (⭐169)](https://github.com/ateymoori/oh-my-android) - Free, open-source macOS app for checking Android apps on emulators and phones in dark mode, large font sizes, RTL and TalkBack, with a TalkBack-order accessibility audit.
 *   [RateMyApp Testing Brief Builder](https://ratemyapp.io/tools/app-testing-brief-builder/) - Free, no-account tool for writing mobile usability-testing tasks, expected outcomes, and feedback instructions.
 *   [Site Spell Checker](https://sitespellchecker.com) - Crawls a live website and flags spelling and grammar mistakes on every page, each shown in context with its page URL. Free one-page scan; the full-site scan is a one-off $99.
 
@@ -654,7 +658,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [promptfoo (⭐27k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+*   [promptfoo (⭐28k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 
 ## [Dec 03, 2025](/content/2025/12/03/README.md)
 

@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [IPDatum](https://www.ipdatum.com) - IPv4/IPv6 geolocation, ASN, and 12-signal VPN/proxy/Tor/cloud/anycast classification API with confidence radius. Free tier includes 1,000 requests/day without signup or 50,000 requests/day with a free API key (batch up to 100 IPs).
 
+### Monitoring
+
+*   [The Network Tools](https://thenetworktools.com) - Automated domain and network infrastructure monitoring: scheduled DNS health, SSL certificate expiry, and email security (SPF/DKIM/DMARC) checks with public API and MCP server. Free tier includes 3 monitored domains, webhooks, and 100 req/min API.
+
 ## [Nov 25, 2026](/content/2026/11/25/README.md)
 
 ### Code Quality
@@ -2197,7 +2201,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐37k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐38k)](https://github.com/langfuse/langfuse)
 
 ## [Oct 07, 2024](/content/2024/10/07/README.md)
 
