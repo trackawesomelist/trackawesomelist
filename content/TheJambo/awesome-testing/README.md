@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Nov 28, 2026](/content/2026/11/28/README.md)
+
+### Software / Test Automation Frameworks
+
+*   [Time-Provider (⭐1)](https://github.com/jaenyf/time-provider) - JavaScript/TypeScript clock and timer injection with deterministic runtimes, so time-dependent tests run instantly and identically every time.
+
 ## [Nov 27, 2026](/content/2026/11/27/README.md)
 
 ### Software / AI & LLM Testing

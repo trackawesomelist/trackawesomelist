@@ -6,6 +6,12 @@ A curated list of bitcoin services and tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Nov 28, 2026](/content/2026/11/28/README.md)
+
+### Additional Resources
+
+*   [IoT Financial](https://iotfinancial.net/) - Free guides and open-formula tools for small companies holding bitcoin: allocation sizing, custody options and a treasury policy generator (UK and US).
+
 ## [Nov 25, 2026](/content/2026/11/25/README.md)
 
 ### Additional Resources

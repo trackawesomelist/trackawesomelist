@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 28, 2026](/content/2026/11/28/README.md)
+
+### APIs, Data, and ML
+
+*   [TradingCalendars](https://tradingcalendars.com) - Offers a free plan for Market Holidays API (10 API calls a day, no card). FX, bank, payment-system, and exchange calendars for fintech and market infrastructure — plus live open, half-day, or closed status for every exchange, through one API.
+
+### Remote Desktop Tools
+
+*   [DeviceView](https://deviceview.ai) - Unattended remote view and control for Android, iOS, Windows, macOS and Linux (including Wayland) devices over peer-to-peer WebRTC, right from the browser, plus automations for self-healing fleets. Free for up to 5 devices.
+
 ## [Nov 27, 2026](/content/2026/11/27/README.md)
 
 ### APIs, Data, and ML

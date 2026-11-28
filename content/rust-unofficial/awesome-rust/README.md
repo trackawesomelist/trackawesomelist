@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Nov 28, 2026](/content/2026/11/28/README.md)
+
+### Applications / Productivity
+
+*   [koruworks/mono (⭐46)](https://github.com/koruworks/mono) - Koru, a free, open source workspace for notes, documents and AI. Native desktop app for Windows, macOS and Linux, built on Loro CRDTs and iroh, with free end-to-end encrypted peer-to-peer sync [![CI](https://github.com/koruworks/mono/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/koruworks/mono/actions/workflows/ci.yml)
+
 ## [Nov 27, 2026](/content/2026/11/27/README.md)
 
 ### Applications
@@ -228,22 +234,22 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [DuskXi/SpaceKnife (⭐58)](https://github.com/DuskXi/SpaceKnife) - Cross-platform disk usage analyzer with live treemap and flame graph views, NTFS MFT quick scan, scan load limits and snapshot comparison, built with Tauri [![CI](https://github.com/DuskXi/SpaceKnife/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/DuskXi/SpaceKnife/actions/workflows/ci.yml)
-*   [Ray-lea/Argus (⭐1.4k)](https://github.com/Ray-lea/Argus) - A native Windows task manager built with GPUI Kit, with real-time CPU, memory, disk, network and GPU monitoring, process and service management, file-lock inspection, and resource usage history. [![Check](https://github.com/Ray-lea/Argus/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/Ray-lea/Argus/actions/workflows/check.yml)
+*   [DuskXi/SpaceKnife (⭐76)](https://github.com/DuskXi/SpaceKnife) - Cross-platform disk usage analyzer with live treemap and flame graph views, NTFS MFT quick scan, scan load limits and snapshot comparison, built with Tauri [![CI](https://github.com/DuskXi/SpaceKnife/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/DuskXi/SpaceKnife/actions/workflows/ci.yml)
+*   [Ray-lea/Argus (⭐3.1k)](https://github.com/Ray-lea/Argus) - A native Windows task manager built with GPUI Kit, with real-time CPU, memory, disk, network and GPU monitoring, process and service management, file-lock inspection, and resource usage history. [![Check](https://github.com/Ray-lea/Argus/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/Ray-lea/Argus/actions/workflows/check.yml)
 
 ### Applications / Text editors
 
-*   [thejacedev/Noteriv (⭐112)](https://github.com/thejacedev/Noteriv) - A Markdown note-taking app with wiki-links, a graph view, plugins and Git sync, built with Tauri 2.
+*   [thejacedev/Noteriv (⭐133)](https://github.com/thejacedev/Noteriv) - A Markdown note-taking app with wiki-links, a graph view, plugins and Git sync, built with Tauri 2.
 
 ## [Nov 12, 2026](/content/2026/11/12/README.md)
 
 ### Applications
 
-*   [alexsergivan/kwant (⭐530)](https://github.com/alexsergivan/kwant) - Self-hosted team of AI bots in one binary, with spaces, handoffs, approvals and routines [![CI](https://github.com/alexsergivan/kwant/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/alexsergivan/kwant/actions/workflows/ci.yml)
+*   [alexsergivan/kwant (⭐726)](https://github.com/alexsergivan/kwant) - Self-hosted team of AI bots in one binary, with spaces, handoffs, approvals and routines [![CI](https://github.com/alexsergivan/kwant/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/alexsergivan/kwant/actions/workflows/ci.yml)
 
 ### Applications / Video
 
-*   [yuxino/mimi (⭐851)](https://github.com/yuxino/mimi) - Live bilingual subtitle overlay for videos and streams, built with Rust and Tauri. [![CI](https://github.com/yuxino/mimi/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/yuxino/mimi/actions/workflows/ci.yml)
+*   [yuxino/mimi (⭐989)](https://github.com/yuxino/mimi) - Live bilingual subtitle overlay for videos and streams, built with Rust and Tauri. [![CI](https://github.com/yuxino/mimi/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/yuxino/mimi/actions/workflows/ci.yml)
 
 ## [Nov 11, 2026](/content/2026/11/11/README.md)
 
@@ -331,7 +337,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [ziuus/orbit-tui (⭐72)](https://github.com/ziuus/orbit-tui) - High-performance terminal workspace and system monitor with WASM plugins [![ci](https://github.com/ziuus/orbit-tui/actions/workflows/ci.yml/badge.svg)](https://github.com/ziuus/orbit-tui/actions/workflows/ci.yml)
+*   [ziuus/orbit-tui (⭐89)](https://github.com/ziuus/orbit-tui) - High-performance terminal workspace and system monitor with WASM plugins [![ci](https://github.com/ziuus/orbit-tui/actions/workflows/ci.yml/badge.svg)](https://github.com/ziuus/orbit-tui/actions/workflows/ci.yml)
 
 ### Applications / Video
 
@@ -393,13 +399,13 @@ A curated list of Rust code and resources.
 
 ### Libraries / Finance
 
-*   [0xArchiveIO/0xarchive-quant (⭐97)](https://github.com/0xArchiveIO/0xarchive-quant) - Rust backtesting engine for Hyperliquid perpetuals, with Python bindings ![Engine CI](https://github.com/0xArchiveIO/0xarchive-quant/actions/workflows/engine.yml/badge.svg?branch=main)
+*   [0xArchiveIO/0xarchive-quant (⭐100)](https://github.com/0xArchiveIO/0xarchive-quant) - Rust backtesting engine for Hyperliquid perpetuals, with Python bindings ![Engine CI](https://github.com/0xArchiveIO/0xarchive-quant/actions/workflows/engine.yml/badge.svg?branch=main)
 
 ## [Oct 28, 2026](/content/2026/10/28/README.md)
 
 ### Applications / Utilities
 
-*   [FortoGraphy/prism-download-manager (⭐905)](https://github.com/FortoGraphy/prism-download-manager) - A cross-platform download manager built with Tauri that splits files into up to 32 parallel connections, with browser integration, video downloads, BitTorrent and crash-safe resume. [![CI](https://github.com/FortoGraphy/prism-download-manager/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/FortoGraphy/prism-download-manager/actions/workflows/ci.yml)
+*   [FortoGraphy/prism-download-manager (⭐2.2k)](https://github.com/FortoGraphy/prism-download-manager) - A cross-platform download manager built with Tauri that splits files into up to 32 parallel connections, with browser integration, video downloads, BitTorrent and crash-safe resume. [![CI](https://github.com/FortoGraphy/prism-download-manager/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/FortoGraphy/prism-download-manager/actions/workflows/ci.yml)
 
 ## [Oct 27, 2026](/content/2026/10/27/README.md)
 
@@ -599,20 +605,20 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [Aster-Privacy/Aster-Mail (⭐115)](https://github.com/Aster-Privacy/Aster-Mail) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. Desktop app built with Tauri.
-*   [HaseebKhalid1507/SynapsCLI (⭐57)](https://github.com/HaseebKhalid1507/SynapsCLI) \[[synaps](https://crates.io/crates/synaps)] - A terminal-native AI agent runtime with a ratatui TUI, parallel subagents, MCP servers, and plugins in any language [![CI](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml)
+*   [Aster-Privacy/Aster-Mail (⭐129)](https://github.com/Aster-Privacy/Aster-Mail) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. Desktop app built with Tauri.
+*   [HaseebKhalid1507/SynapsCLI (⭐61)](https://github.com/HaseebKhalid1507/SynapsCLI) \[[synaps](https://crates.io/crates/synaps)] - A terminal-native AI agent runtime with a ratatui TUI, parallel subagents, MCP servers, and plugins in any language [![CI](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/HaseebKhalid1507/SynapsCLI/actions/workflows/ci.yml)
 
 ### Applications / Productivity
 
-*   [raine/aven (⭐243)](https://github.com/raine/aven) \[[aven](https://crates.io/crates/aven)] - Local-first task manager for power users and agents, with a keyboard-driven TUI and agent-first CLI [![CI](https://github.com/raine/aven/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/raine/aven/actions/workflows/ci.yml)
+*   [raine/aven (⭐253)](https://github.com/raine/aven) \[[aven](https://crates.io/crates/aven)] - Local-first task manager for power users and agents, with a keyboard-driven TUI and agent-first CLI [![CI](https://github.com/raine/aven/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/raine/aven/actions/workflows/ci.yml)
 
 ### Applications / System tools
 
-*   [orbit-tui (⭐72)](https://github.com/ziuus/orbit-tui) - Keyboard-driven terminal system dashboard (\~3MB, 0.5% CPU) with CPU, memory, disk, network, GPU, processes, clock, calendar, and audio visualizer
+*   [orbit-tui (⭐89)](https://github.com/ziuus/orbit-tui) - Keyboard-driven terminal system dashboard (\~3MB, 0.5% CPU) with CPU, memory, disk, network, GPU, processes, clock, calendar, and audio visualizer
 
 ### Applications / Video
 
-*   [open-subs/opensubs (⭐165)](https://github.com/open-subs/opensubs) - Subtitle generator that runs in the browser: on-device Whisper transcription, with a Rust engine compiled to WebAssembly for subtitle segmentation, line breaking and styling
+*   [open-subs/opensubs (⭐185)](https://github.com/open-subs/opensubs) - Subtitle generator that runs in the browser: on-device Whisper transcription, with a Rust engine compiled to WebAssembly for subtitle segmentation, line breaking and styling
 
 ## [Oct 12, 2026](/content/2026/10/12/README.md)
 
@@ -788,7 +794,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [adileo/squirreldisk (⭐2.2k)](https://github.com/adileo/squirreldisk) - Disk usage analyzer GUI (egui) for macOS, Windows and Linux with sunburst and treemap views, which can also scan SSH servers and cloud storage via rclone [![CI](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml)
+*   [adileo/squirreldisk (⭐2.4k)](https://github.com/adileo/squirreldisk) - Disk usage analyzer GUI (egui) for macOS, Windows and Linux with sunburst and treemap views, which can also scan SSH servers and cloud storage via rclone [![CI](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/adileo/squirreldisk/actions/workflows/ci.yml)
 
 ### Development tools / Formatters
 
@@ -2202,7 +2208,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [max-sixty/worktrunk (⭐12k)](https://github.com/max-sixty/worktrunk) \[[worktrunk](https://crates.io/crates/worktrunk)] - CLI for git worktree management designed for running AI agents in parallel, with hooks, LLM commit messages, and merge workflows [![CI](https://img.shields.io/github/actions/workflow/status/max-sixty/worktrunk/ci.yaml?branch=main\&logo=github)](https://github.com/max-sixty/worktrunk/actions?query=branch%3Amain+workflow%3Aci)
+*   [max-sixty/worktrunk (⭐13k)](https://github.com/max-sixty/worktrunk) \[[worktrunk](https://crates.io/crates/worktrunk)] - CLI for git worktree management designed for running AI agents in parallel, with hooks, LLM commit messages, and merge workflows [![CI](https://img.shields.io/github/actions/workflow/status/max-sixty/worktrunk/ci.yaml?branch=main\&logo=github)](https://github.com/max-sixty/worktrunk/actions?query=branch%3Amain+workflow%3Aci)
 
 ## [Mar 05, 2026](/content/2026/03/05/README.md)
 
@@ -2310,7 +2316,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [aannoo/hcom (⭐656)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
+*   [aannoo/hcom (⭐678)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
 
 ### Libraries / Scripting
 
@@ -2494,7 +2500,7 @@ A curated list of Rust code and resources.
 ### Applications / Security tools
 
 *   [bountyyfi/lonkero (⭐1.1k)](https://github.com/bountyyfi/lonkero) - Enterprise-grade web vulnerability scanner with 60+ attack modules for penetration testing and security assessments
-*   [ssh-vault (⭐511)](https://github.com/ssh-vault/ssh-vault) - A simple tool to manage secrets using ssh keys for encryption and decryption.
+*   [ssh-vault (⭐512)](https://github.com/ssh-vault/ssh-vault) - A simple tool to manage secrets using ssh keys for encryption and decryption.
 
 ### Applications / System tools
 
@@ -3881,7 +3887,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Text editors
 
-*   [zed (⭐95k)](https://github.com/zed-industries/zed) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [zed (⭐96k)](https://github.com/zed-industries/zed) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ### Development tools / Profiling
 
@@ -4865,7 +4871,7 @@ A curated list of Rust code and resources.
 *   [amv-dev/yata (⭐405)](https://github.com/amv-dev/yata) - high performance technical analysis library [![Build Status](https://img.shields.io/github/workflow/status/amv-dev/yata/Rust?branch=master)](https://github.com/amv-dev/yata/actions?query=workflow%3ARust)
 *   [bluss/ndarray (⭐4.3k)](https://github.com/rust-ndarray/ndarray) - N-dimensional array with array views, multidimensional slicing, and efficient operations
 *   [kernelmachine/utah (⭐145)](https://github.com/kernelmachine/utah) - Dataframe structure and operations
-*   [pola-rs/polars (⭐40k)](https://github.com/pola-rs/polars) - Fast feature complete DataFrame library [![Lint Rust](https://github.com/pola-rs/polars/actions/workflows/lint-rust.yml/badge.svg)](https://github.com/pola-rs/polars/actions)
+*   [pola-rs/polars (⭐41k)](https://github.com/pola-rs/polars) - Fast feature complete DataFrame library [![Lint Rust](https://github.com/pola-rs/polars/actions/workflows/lint-rust.yml/badge.svg)](https://github.com/pola-rs/polars/actions)
 *   [weld-project/weld (⭐3k)](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications
 
 ### Libraries / Data structures
@@ -5700,7 +5706,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [nickgerace/gfold (⭐404)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
+*   [nickgerace/gfold (⭐405)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
 
 ### Applications / Text editors
 
@@ -5709,7 +5715,7 @@ A curated list of Rust code and resources.
 ### Applications / Utilities
 
 *   [raftario/licensor (⭐206)](https://github.com/raftario/licensor) - write licenses to stdout [![GitHub Actions](https://github.com/raftario/licensor/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/raftario/licensor/actions/workflows/build.yml)
-*   [rustdesk/rustdesk (⭐129k)](https://github.com/rustdesk/rustdesk) - A remote desktop software, great alternative to TeamViewer and AnyDesk.
+*   [rustdesk/rustdesk (⭐132k)](https://github.com/rustdesk/rustdesk) - A remote desktop software, great alternative to TeamViewer and AnyDesk.
 *   [vaultwarden (⭐71k)](https://github.com/dani-garcia/vaultwarden#readme) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) - Alternative implementation of the Bitwarden server API written in Rust
 
 ### Development tools / FFI

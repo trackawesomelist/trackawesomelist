@@ -10,6 +10,7 @@ A curated list of bitcoin services and tools for software developers
 
 ### Additional Resources
 
+*   [IoT Financial](https://iotfinancial.net/) - Free guides and open-formula tools for small companies holding bitcoin: allocation sizing, custody options and a treasury policy generator (UK and US).
 *   [Hardware Wallet Security Incident Tracker](https://walletinsights.io/en/security-incidents/) - Dated record of hardware wallet security incidents (vulnerabilities, supply-chain tampering, vendor data breaches), each with its sources, the affected models and whether it is fixed. Open data under CC BY 4.0.
 
 ## [Oct 05 - Oct 11, 2026](/content/2026/40/README.md)

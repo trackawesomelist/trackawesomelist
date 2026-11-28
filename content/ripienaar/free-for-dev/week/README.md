@@ -12,6 +12,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [IPDatum](https://www.ipdatum.com) - IPv4/IPv6 geolocation, ASN, and 12-signal VPN/proxy/Tor/cloud/anycast classification API with confidence radius. Free tier includes 1,000 requests/day without signup or 50,000 requests/day with a free API key (batch up to 100 IPs).
 *   [TemplateFox](https://templatefox.com) - PDF generation API with a visual template editor, dynamic data merging, and SDKs for 7 languages. Free plan includes 60 PDFs/month and 3 templates.
+*   [TradingCalendars](https://tradingcalendars.com) - Offers a free plan for Market Holidays API (10 API calls a day, no card). FX, bank, payment-system, and exchange calendars for fintech and market infrastructure — plus live open, half-day, or closed status for every exchange, through one API.
 
 ### Code Quality
 
@@ -43,6 +44,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Analytics, Events and Statistics
 
 *   [Hotjar](https://contentsquare.com/) - Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members. Also in App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.
+
+### Remote Desktop Tools
+
+*   [DeviceView](https://deviceview.ai) - Unattended remote view and control for Android, iOS, Windows, macOS and Linux (including Wayland) devices over peer-to-peer WebRTC, right from the browser, plus automations for self-healing fleets. Free for up to 5 devices.
 
 ## [Nov 23 - Nov 29, 2026](/content/2026/47/README.md)
 

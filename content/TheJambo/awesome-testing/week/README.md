@@ -37,6 +37,10 @@ A curated list of testing resources
 
 *   [Deep Link Tester](https://bestlatestapps.com/tools/deep-link-tester/) - Builds shell-safe adb and xcrun simctl commands and a QR code for testing Android and iOS deep links, and shows which intent filter in a pasted manifest catches a link.
 
+### Software / Test Automation Frameworks
+
+*   [Time-Provider (⭐1)](https://github.com/jaenyf/time-provider) - JavaScript/TypeScript clock and timer injection with deterministic runtimes, so time-dependent tests run instantly and identically every time.
+
 ### Software / Screen Recording & Session Replays
 
 *   [Ghostframe Replay (⭐1)](https://github.com/zakariagharzouli/project-ghostframe) - A screenshot that replays its own steps: clicks, timings and notes are encoded in a strip of pixels at the bottom of a JPEG, then replayed in the browser, with no account. MIT.

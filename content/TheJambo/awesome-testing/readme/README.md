@@ -305,6 +305,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [behave (⭐6)](https://github.com/emirmrkaljevic/behave) - Records how a command-line tool behaves (flags, stdin, exit codes, edge cases) as golden tests and replays them against another implementation, e.g. a Rust or Go rewrite.
 *   [VeriSpec (⭐2)](https://github.com/godikemahesh/verispec) - Spec-driven quality engineering framework that turns specifications into traceable test strategies, native test suites, and continuous release evidence.
 *   [blastradius (⭐13)](https://github.com/baokhang83/blastradius) - Test impact analysis for JVM projects (Maven, Gradle, JUnit 5) that runs only the tests affected by a change, using class dependencies recorded by a Java agent.
+*   [Time-Provider (⭐1)](https://github.com/jaenyf/time-provider) - JavaScript/TypeScript clock and timer injection with deterministic runtimes, so time-dependent tests run instantly and identically every time.
 
 ### Screen Recording & Session Replays
 
